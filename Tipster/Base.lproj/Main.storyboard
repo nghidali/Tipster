@@ -142,7 +142,7 @@
                                 <segments>
                                     <segment title="15"/>
                                     <segment title="20"/>
-                                    <segment title="30"/>
+                                    <segment title="22"/>
                                 </segments>
                                 <connections>
                                     <action selector="onEdit:" destination="dru-qz-HbC" eventType="valueChanged" id="teq-1p-qrR"/>
